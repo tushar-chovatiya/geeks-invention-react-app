@@ -56,9 +56,9 @@ function App() {
                       Empower your financial institution with our advanced fintech solutions. From real-time fraud detection to easy bookkeeping, our software development services provide credit risk scoring for accurate lending eligibility, transaction categorization for seamless organization, and anomaly detection to safeguard your assets
                     </p>
                   </div>
-                  <a className="btn btn_white" rel="nofollow" href="#">
+                  <button className="btn btn_white" rel="nofollow" href="#">
                     <span>See full case study</span>
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>
@@ -84,9 +84,9 @@ function App() {
                       Revolutionize your industry with our innovative IoT solutions. Our software development services offer connected manufacturing, pollution control, smart transportation, and intelligent farming, agriculture, and forestry. With our expertise, you can harness the power of technology to increase efficiency, reduce waste, and optimize operations for a sustainable future.
                     </p>
                   </div>
-                  <a className="btn btn_white" rel="nofollow" href="#">
+                  <button className="btn btn_white" rel="nofollow" href="#">
                     <span>See full case study</span>
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>
@@ -112,9 +112,9 @@ function App() {
                       Elevate your education institution with our comprehensive software solutions. Learning management, course offerings, professional training, certification, and school management tools to streamline your operations and enhance your students' learning experience. Trust us to provide the cutting-edge technology and support you need to thrive in the ever-evolving education industry.
                     </p>
                   </div>
-                  <a className="btn btn_white" rel="nofollow" href="#">
+                  <button className="btn btn_white" rel="nofollow" href="#">
                     <span>See full case study</span>
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>
@@ -132,9 +132,9 @@ function App() {
               </p>
             </div>
           </div>
-          <a className="btn btn_orange" href="works/index.html">
+          <button className="btn btn_orange" href="works/index.html">
             <span>See all case studies</span>
-          </a>
+          </button>
         </div>
         <div className="challenges index-challenges">
           <div className="challenges__i">
@@ -267,9 +267,9 @@ function App() {
                 </div>
               </div>
             </div>
-            {/* <a class="btn btn_orange" rel="nofollow" href="about/index.html">
+            {/* <button class="btn btn_orange" rel="nofollow" href="about/index.html">
                   <span>More about us</span>
-              </a> */}
+              </button> */}
           </div>
         </div>
         <div className="software-platforms">
@@ -326,9 +326,9 @@ function App() {
             </div>
           </div>
           <div className="more-tech">
-            <a className="btn btn_orange" href="technologies/index.html">
+            <button className="btn btn_orange" href="technologies/index.html">
               <span>See our tech stack</span>
-            </a>
+            </button>
           </div>
         </div>
         <div className="dedicated-teams">
@@ -383,9 +383,9 @@ function App() {
             </li>
           </ul>
           <div className="more-tech">
-            <a className="btn btn_orange" href="services/index.html">
+            <button className="btn btn_orange" href="services/index.html">
               <span>See our services</span>
-            </a>
+            </button>
           </div>
         </div>
       </section>
@@ -401,89 +401,89 @@ function App() {
                   It is a pleasure to have you on our website. Let us know if there's an opportunity to do something together.
                 </p>
               </div>
-              <a className="btn btn_full-orange" href="contacts/index.html">Drop us a message</a>
+              <button className="btn btn_full-orange" href="contacts/index.html">Drop us a message</button>
             </div>
           </div>
         </div>
         <div className="footer-top clearfix">
           <div className="footer-logo">
-            <a rel="nofollow" href="index.html">
+            <button rel="nofollow" href="index.html">
               <img src="fonts/geeks-logo-white.svg" alt="" />
-            </a>
+            </button>
             <p> 447 Broadway, 2nd Floor Suite #772, New York 10013, United States
               <br /> +1-347-535-0004 </p>
           </div>
           <nav>
             <ul className="clearfix">
               <li>
-                <a rel="nofollow" href="works/">
+                <button rel="nofollow" href="works/">
                   <span>Works</span>
-                </a>
+                </button>
               </li>
               <li>
-                <a rel="nofollow" href="technologies/">
+                <button rel="nofollow" href="technologies/">
                   <span>Technologies</span>
-                </a>
+                </button>
               </li>
               <li>
-                <a rel="nofollow" href="services/">
+                <button rel="nofollow" href="services/">
                   <span>Services</span>
-                </a>
+                </button>
               </li>
               <li>
-                <a rel="nofollow" href="about/">
+                <button rel="nofollow" href="about/">
                   <span>Company</span>
-                </a>
+                </button>
               </li>
               <li>
-                <a rel="nofollow" href="contacts/">
+                <button rel="nofollow" href="contacts/">
                   <span>Contacts</span>
-                </a>
+                </button>
               </li>
               <li>
-                <a href="terms.html">
+                <button href="terms.html">
                   <span>Terms and Conditions</span>
-                </a>
-                <a href="privacy.html">
+                </button>
+                <button href="privacy.html">
                   <span>Privacy Policy</span>
-                </a>
+                </button>
               </li>
             </ul>
           </nav>
           {/* <div class="socials">
               <ul>
                   <li>
-                      <a href="#" target="_blank" rel="nofollow">
+                      <button href="#" target="_blank" rel="nofollow">
                           <i class="icon-facebook"></i>
-                      </a>
+                      </button>
                   </li>
                   <li>
-                      <a href="#" target="_blank" rel="nofollow">
+                      <button href="#" target="_blank" rel="nofollow">
                           <i class="icon-twitter"></i>
-                      </a>
+                      </button>
                   </li>
                   <li>
-                      <a href="#" target="_blank" rel="nofollow">
+                      <button href="#" target="_blank" rel="nofollow">
                           <i class="icon-github"></i>
-                      </a>
+                      </button>
                   </li>
                   <li>
-                      <a href="#" target="_blank" rel="nofollow">
+                      <button href="#" target="_blank" rel="nofollow">
                           <i class="icon-dribbble"></i>
-                      </a>
+                      </button>
                   </li>
                   <li>
-                      <a href="#" target="_blank" rel="nofollow">
+                      <button href="#" target="_blank" rel="nofollow">
                           <i class="icon-behance"></i>
-                      </a>
+                      </button>
                   </li>
                   <li>
-                      <a href="#" target="_blank" rel="nofollow">
+                      <button href="#" target="_blank" rel="nofollow">
                           <i class="icon-telegram"></i>
-                      </a>
+                      </button>
                   </li>
               </ul> */}
-          <a rel="nofollow" href="#" className="btn btn_white subscription-dialog" data-toggle="modal" data-target="#subscribeModal" data-backdrop="static">Stay tuned for our updates</a>
+          <button rel="nofollow" href="#" className="btn btn_white subscription-dialog" data-toggle="modal" data-target="#subscribeModal" data-backdrop="static">Stay tuned for our updates</button>
         </div>
         <div className="footer-bottom">
           <p>©&nbsp;Copyright 2023
@@ -495,39 +495,39 @@ function App() {
           <div className="nav__i">
             <ul className="header-nav clearfix">
               <li className="header-menu-item">
-                <a className="active" href="index.html">HOME</a>
+                <button className="active" href="index.html">HOME</button>
               </li>
               <li className="header-menu-item">
-                <a rel="nofollow" href="works/index.html">WORKS</a>
+                <button rel="nofollow" href="works/index.html">WORKS</button>
               </li>
               <li className="header-menu-item">
-                <a href="technologies/index.html">TECHNOLOGIES</a>
+                <button href="technologies/index.html">TECHNOLOGIES</button>
               </li>
               <li className="header-menu-item">
-                <a href="services/index.html">SERVICES</a>
+                <button href="services/index.html">SERVICES</button>
               </li>
               <li className="header-menu-item">
-                <a rel="nofollow" href="about/index.html">COMPANY</a>
+                <button rel="nofollow" href="about/index.html">COMPANY</button>
               </li>
               {/* <li class="header-menu-item">
-                  <a href="#">BLOG</a>
+                  <button href="#">BLOG</button>
               </li>*/}
               <li className="header-menu-item">
-                <a rel="nofollow" href="contacts/index.html">CONTACTS</a>
+                <button rel="nofollow" href="contacts/index.html">CONTACTS</button>
               </li>
             </ul>
           </div>
         </nav>
-        <a href="index.html">
+        <button href="index.html">
           <img src="https://geeksinvention.com/assets/v2/content/geeks-logo-white.svg" alt="" />
-        </a>
-        <a href="#" className="device-menu">
+        </button>
+        <button href="#" className="device-menu">
           <div className="device-menu__i">
             <span />
             <span />
             <span />
           </div>
-        </a>
+        </button>
       </header>
       <div className="modal fade modal-subscribe" id="subscribeModal" tabIndex={-1} role="dialog">
         <button type="button" className="close" data-dismiss="modal" aria-label="Close">
